@@ -26,7 +26,7 @@ day01：
 				2. 统一管理配置文件
 				3. 配置版本管理
 
-	gateway：网关组件 zuul
+	gateway：网关组件 与zuul类似
 		动态路由、负载均衡、身份认证、限流、路径重写、熔断降级、请求过滤
 		spring.cloud.gateway.routes[0]
 			id: 唯一标志
